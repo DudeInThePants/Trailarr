@@ -6,7 +6,7 @@ Trailarr is a Python script that enables you to discover upcoming American movie
 
 - Python 3.x
 - Required Python libraries: `requests`, `youtubesearchpython`, `yt_dlp`
-- TMDB API key and YouTube API key
+- TMDB API key
 
 ## Setup
 
