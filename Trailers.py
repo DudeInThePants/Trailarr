@@ -5,8 +5,8 @@ from datetime import datetime, timedelta
 import re
 import yt_dlp
 
-# API Key for accessing TMDB
-API_KEY = "YOUR_API_KEY_HERE"
+# API Key for accessing TMDB and YouTube APIs
+API_KEY = "KEY HERE"
 
 # Maximum number of movie and TV show trailers to download
 MAX_MOVIE_TRAILERS = 5
